@@ -1,6 +1,7 @@
 An attempt to combine 3DMaps on DJAngo with ROS and a database
 # How to Add Maps + 3D buildings to Django Web App
 
+![2018-07-08 1](https://user-images.githubusercontent.com/30196830/42422235-dc232b4a-82ff-11e8-82e5-d6f6f54b4da8.png) 
 In this post we will build a simple app in Django and add an
 interactive map like the one you see above.
 
